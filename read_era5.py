@@ -1,2 +1,3 @@
-# TODO: read data frim the era5 files
+# TODO: read data  the era5 documented files
+import numpy as np
 
